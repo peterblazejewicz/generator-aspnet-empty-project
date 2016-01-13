@@ -13,6 +13,11 @@ Simplifies common tedious tasks:
 - add `src` directory
 - cd to `src` directory and scaffold a project
 
-See: [Understanding ASP.NET 5 Web Apps](https://docs.asp.net/en/latest/conceptual-overview/understanding-aspnet5-apps.html?highlight=project#asp-net-project-structure)
+See related documentation:
+* [Understanding ASP.NET 5 Web Apps](https://docs.asp.net/en/latest/conceptual-overview/understanding-aspnet5-apps.html?highlight=project#asp-net-project-structure)
+* [The global.json File](https://docs.asp.net/en/latest/conceptual-overview/understanding-aspnet5-apps.html?highlight=project#the-global-json-file)
+* [global.json](https://github.com/aspnet/Home/wiki/Package-Locations#globaljson)
+* [global.json SDK version](https://github.com/aspnet/Home/wiki/DesignNote-19th-Jan-2015#globaljson-sdk-version)
+
 ## Author
 @peterblazejewicz
